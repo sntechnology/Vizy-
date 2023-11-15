@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VIZY</string>
+    <string name="cadastre_se">Cadastre_se</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="entrar">Entrar</string>
+</resources>
